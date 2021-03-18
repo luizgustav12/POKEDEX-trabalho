@@ -1,2 +1,2 @@
 # POKEDEX-trabalho
-Um pokedex feito com os paradigmas de programação orientada a objeto
+Uma Pokedex feito com os paradigmas de Programação Orientada a Objeto
